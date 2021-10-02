@@ -1,0 +1,10 @@
+/checkpoints
+/data/patches
+/data/raw
+/data/stain_reference
+/data/tfrecords
+/lib
+/logs
+/models
+/other_files
+/venv
